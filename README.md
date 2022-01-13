@@ -1,2 +1,2 @@
 Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados, através de projetos com dados públicos.
-Você vai encontrar também, minhas experiências profissionais, habilidades, ferramentas e conceitos envolvendo a Ciência de Dados no (Portfólio de Ciência de Dados)[https://douglasaturnino.github.io/portfolio_projetos/]
+Você vai encontrar também, minhas experiências profissionais, habilidades, ferramentas e conceitos envolvendo a Ciência de Dados no [Portfólio de Ciência de Dados](https://douglasaturnino.github.io/portfolio_projetos/)
