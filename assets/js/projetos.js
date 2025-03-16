@@ -2,7 +2,7 @@ $(document).ready(function () {
     async function obterArquivosDaPasta() {
         try {
             // Usando fetch API para ler diretório
-            const response = await fetch('./projetos/');
+            const response = await fetch('../../projetos/');
             const diretorio = await response.text();
 
             // Extrair nomes dos arquivos usando regex
