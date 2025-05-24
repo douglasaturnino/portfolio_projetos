@@ -17,7 +17,8 @@ $(document).ready(function () {
         "elasticidade-preco.html",
         "automacao-de-processos-com-ETL.html",
         "monitoramento-de-preco-com-web-scraping-e-notificacoes-no-telegram.html",
-        "fome-zero.html"
+        "fome-zero.html",
+        "crud-fastapi-postgress-streamlit.html"
     ];
 
     // Função para carregar os projetos
