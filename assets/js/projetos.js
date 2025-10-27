@@ -18,7 +18,8 @@ $(document).ready(function () {
         "automacao-de-processos-com-ETL.html",
         "monitoramento-de-preco-com-web-scraping-e-notificacoes-no-telegram.html",
         "fome-zero.html",
-        "crud-fastapi-postgress-streamlit.html"
+        "crud-fastapi-postgress-streamlit.html",
+        "chatbot-ia-para-whatsapp-evolutionapi-langchain.html"
     ];
 
     // Função para carregar os projetos
