@@ -19,7 +19,8 @@ $(document).ready(function () {
         "monitoramento-de-preco-com-web-scraping-e-notificacoes-no-telegram.html",
         "fome-zero.html",
         "crud-fastapi-postgress-streamlit.html",
-        "chatbot-ia-para-whatsapp-evolutionapi-langchain.html"
+        "chatbot-ia-para-whatsapp-evolutionapi-langchain.html",
+        "pipeline-rag-completo.html"
     ];
 
     // Função para carregar os projetos
